@@ -13,7 +13,7 @@ function v(val) {
 // evaluate the equation 
 function e() {
 	try {
-		d(eval(document.getElementById("d").value));
+		  d(eval(document.getElementById("d").value));
 	}
 	catch(err) {
 		d("error");

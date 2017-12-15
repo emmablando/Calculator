@@ -1,5 +1,8 @@
 @charset "UTF-8";
 /* CSS Document */
+body {
+	background-image:  url("menoracandles.jpg");
+}
 
 .box {
 	background-color: #B91F21;
